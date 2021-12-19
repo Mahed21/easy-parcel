@@ -1,0 +1,9 @@
+.back {
+  background-color: rgb(242, 244, 248);
+}
+.text {
+  color: rgb(249, 39, 142);
+}
+.card1 {
+  box-shadow: 10px 10px 10px gray;
+}

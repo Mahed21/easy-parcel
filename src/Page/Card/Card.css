@@ -1,0 +1,12 @@
+.card {
+  background-color: #f2f4f8;
+}
+.fas {
+  color: #f9278e;
+}
+.card:hover {
+}
+.card-back {
+  background-color: rgb(128, 128, 128);
+  transform: rotateX(180deg);
+}
